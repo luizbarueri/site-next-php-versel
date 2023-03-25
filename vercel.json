@@ -1,7 +1,7 @@
 {
     "functions": {
         "api/*.php": {
-            "runtime": "now-php@0.4.0"
+            "runtime": "verel-php@0.4.0"
         }
     }
 }
